@@ -7,3 +7,6 @@
 <h3>5. Python program to add two numbers.</h3>
 <h3>6. Python program to find square root of a number.</h3>
 <h3>7. Python program to calculate area of a triangle.</h3>
+<h3>8. Python program to solve quadratic equation.</h3>
+<h3>9. Python program to swap numbers.</h3>
+<h3>10. Python program to generate random number.</h3>
