@@ -4,3 +4,5 @@
 <h3>2. Python program to display powers of 2 using anonymous function.</h3>
 <h3>3. Python program to find numbers divisible by another number.</h3>
 <h3>4. Python program to convert decimal to binary, octal and hexadecimal.</h3>
+<h3>5. Python program to add two numbers.</h3>
+<h3>6. Python program find square root of a number.</h3>
